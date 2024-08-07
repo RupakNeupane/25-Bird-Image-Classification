@@ -33,6 +33,7 @@ This repository contains the implementation of an image classification model usi
 ### Data Augmentation
 
 Data Augmentation included are:
+
 **1. RandomHoriontalFlip**
 
 ![Horizontal Flip Image](horizontal_flip.png)
@@ -157,6 +158,7 @@ The model is saved in two formats:
 ### Plotting Metrics
 
 Functions are provided to plot:
+
 **1. Accuracy vs. Epochs**
    
 ![Accuracy vs. Epochs](accuracy.png)
