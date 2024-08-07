@@ -172,13 +172,10 @@ These plots help visualize the model's performance during training.
 2. Run the notebook cells sequentially to execute the code. Ensure that the dataset path is correctly set and that a GPU is available for faster training.
 
 
-## License
-
-This project is licensed under the MIT License.
-
 
 ## Contact
 
 Rupak Neupane
+
 neupanerupak7@gmail.com
 
