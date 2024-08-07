@@ -42,9 +42,13 @@ This repository contains the implementation of an image classification model usi
 
 Data Augmentation included are:
 1. RandomHoriontalFlip
+![Horizontal Flip Image](horizontal_flip.png)
 2. RandomRotation
+![Rotated Image](random_rotation.png)
 3. ColorJitter
+![Color Jitter Image](color_jitter.png)
 4. RandomErasing
+![Random Erased Image](random_erased.png)
 
 ### Data Preparation
 
@@ -155,8 +159,11 @@ The model is saved in two formats:
 
 Functions are provided to plot:
 1. Accuracy vs. Epochs
+![Accuracy vs. Epochs](accuracy.png)
 2. Loss vs. Epochs
+![Loss vs. Epochs](losses.png)
 3. Learning Rate
+![Learning Rate vs. Batch No.](lrs.png)
 
 These plots help visualize the model's performance during training.
 
@@ -170,7 +177,6 @@ These plots help visualize the model's performance during training.
     ```
 
 2. Run the notebook cells sequentially to execute the code. Ensure that the dataset path is correctly set and that a GPU is available for faster training.
-
 
 
 ## Contact
