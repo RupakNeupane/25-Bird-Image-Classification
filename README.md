@@ -176,6 +176,8 @@ These plots help visualize the model's performance during training.
 
 ## Usage
 
+### For training model
+
 1. Open the Jupyter notebook:
 
     ```bash
@@ -184,7 +186,14 @@ These plots help visualize the model's performance during training.
 
 2. Run the notebook cells sequentially to execute the code. Ensure that the dataset path is correctly set and that a GPU is available for faster training.
 
+### For testing model
 
+1. Run test.py file
+   
+    ```bash
+    python test.py
+    ```
+    
 ## Contact
 
 Rupak Neupane
