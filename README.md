@@ -30,14 +30,6 @@ This repository contains the implementation of an image classification model usi
 
 ## Overview
 
-<!-- The notebook is structured as follows:
-
-1. **Imports and Setup**: Importing necessary libraries and setting up configurations.
-2. **Data Preparation**: Loading the dataset and applying transformations for data augmentation.
-3. **Model Definition**: Defining the convolutional neural network (CNN) architecture using PyTorch.
-4. **Training Loop**: Training the model with GPU acceleration, including loss computation and optimization.
-5. **Evaluation**: Evaluating the model on the validation dataset and computing accuracy metrics. -->
-
 ### Data Augmentation
 
 Data Augmentation included are:
